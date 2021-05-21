@@ -1,17 +1,24 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pace-makers.github.io</id>
-    <title>Pace Makers</title>
-    <link href="https://pace-makers.github.io" />
-    <updated>2021-05-21T07:42:24.000Z</updated>
-    <category term="nodejs" />
-    <category term="javascript" />
-    <category term="socket" />
-    <entry>
-        <id>https://pace-makers.github.io/2021/05/21/realtime-console-chat-app/</id>
-        <title>Realtime Console Chat App</title>
-        <link rel="alternate" href="https://pace-makers.github.io/2021/05/21/realtime-console-chat-app/"/>
-        <content type="html">&lt;p&gt;In this post, We will create and see how easy it is to create your own realtime chat app in console. This chat app is two part, One part is server and second part is Client.&lt;/p&gt;
+<rss version="2.0">
+    <channel>
+        <title>Pace Makers • Posts by &#34;technology&#34; category</title>
+        <link>https://pace-makers.github.io</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Fri, 21 May 2021 13:12:24 +0530</pubDate>
+        <lastBuildDate>Fri, 21 May 2021 13:12:24 +0530</lastBuildDate>
+        <category>nodejs</category>
+        <category>javascript</category>
+        <category>socket</category>
+        <item>
+            <guid isPermalink="true">https://pace-makers.github.io/2021/05/21/realtime-console-chat-app/</guid>
+            <title>Realtime Console Chat App</title>
+            <link>https://pace-makers.github.io/2021/05/21/realtime-console-chat-app/</link>
+            <category>nodejs</category>
+            <category>javascript</category>
+            <category>socket</category>
+            <pubDate>Fri, 21 May 2021 13:12:24 +0530</pubDate>
+            <description><![CDATA[ &lt;p&gt;In this post, We will create and see how easy it is to create your own realtime chat app in console. This chat app is two part, One part is server and second part is Client.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;0.png&#34; alt=&#34;THUMBNAIL&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;What-we-need-for-this-tutorial&#34;&gt;&lt;a href=&#34;#What-we-need-for-this-tutorial&#34; class=&#34;headerlink&#34; title=&#34;What we need for this tutorial&#34;&gt;&lt;/a&gt;What we need for this tutorial&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;NPM and NodeJS installed&lt;/li&gt;
@@ -35,32 +42,7 @@
 &lt;p&gt;&lt;img src=&#34;5.png&#34; alt=&#34;THUMBNAIL HERE&#34;&gt;&lt;br&gt;&lt;img src=&#34;6.png&#34; alt=&#34;THUMBNAIL HERE&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Programmer101N/chat-cli-nodejs&#34;&gt;Link to This Project&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wlo.link/@prgmaz&#34;&gt;&lt;strong&gt;Follow me on my socials&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-        <category term="nodejs" />
-        <category term="javascript" />
-        <category term="socket" />
-        <updated>2021-05-21T07:42:24.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://pace-makers.github.io/2021/05/20/misconceptions-about-vaccines/</id>
-        <title>Misconceptions About Vaccines</title>
-        <link rel="alternate" href="https://pace-makers.github.io/2021/05/20/misconceptions-about-vaccines/"/>
-        <content type="html">&lt;p&gt;In these tough times we are facing a lot of problem which is enormous in number. The pandemic has no solution other than Vaccines. So, why people fear This? Some people think is it safe so?&lt;br&gt;will it result cause in any other severe problems?….. So hold on guyss Read this full article and we assure you at the end you will get your answers.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;covid.jpg&#34; alt=&#34;covid- jab&#34;&gt;&lt;/p&gt;
-&lt;p&gt;So basically starting with &lt;strong&gt;“What are Vaccines and How do they really Work?”&lt;/strong&gt;&lt;br&gt;A vaccine is a biological preparation that improves immunity to a particular disease caused by any virus or bacteria. Mostly vaccines contain parts of microbes or whole microbes that have been killed or weakened so that they don’t cause any disease.&lt;br&gt;When a person is Vaccinated, the immune system confronts these harmless versions of the germs. The immune system quickly clears them from the body.&lt;br&gt;In turn the body remembers the germ so that later if they attack again the retained memory help to fight against the particular germ and that’s how it work.&lt;/p&gt;
-&lt;p&gt;Starting with whether covid vaccines are safe or not, So from my point of view and considering those recommendatoions from W.H.O. these vaccines are the only first and last option we have right now.&lt;br&gt;These may cause you several mild-to-moderate side effects when receiving vaccinations. This is because your immune system is instructing your body to react in certain ways: it increases blood flow so more immune cells can circulate, and it raises your body temperature in order to kill the virus.&lt;/p&gt;
-&lt;p&gt;So bascially you may expose to some mild fever, headache or some body  pain. And no such long term side effects shown yet mostly. Don’t fear within 10-14 days your immune system start to develop again and sooner you will be all normal again. &lt;/p&gt;
-&lt;h2 id=&#34;Who-should-get-the-covid-19-vaccines&#34;&gt;&lt;a href=&#34;#Who-should-get-the-covid-19-vaccines&#34; class=&#34;headerlink&#34; title=&#34;Who should get the covid-19 vaccines?&#34;&gt;&lt;/a&gt;&lt;strong&gt;Who should get the covid-19 vaccines?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;The COVID- 19 vaacines are safe to most of the people which are older than 18n years,&lt;br&gt;including those to which fall under these category : hypertension, diabetes, asthma, pulmonary, liver and kidney disease, as well as chronic infections that are stable and controlled.&lt;/p&gt;
-&lt;h2 id=&#34;Can-we-stop-taking-precautions-after-being-vaccinated&#34;&gt;&lt;a href=&#34;#Can-we-stop-taking-precautions-after-being-vaccinated&#34; class=&#34;headerlink&#34; title=&#34;Can we stop taking precautions after being vaccinated?&#34;&gt;&lt;/a&gt;&lt;strong&gt;Can we stop taking precautions after being vaccinated?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;Vaccinations protect you from those uncontrollable situation which cause multiple failure of organs and deaths, after 14 days&lt;br&gt;it start building up immuntiy. In between this time peiod one should take care of himself atmost,&lt;br&gt;because in this time your immunity will be at the lowest. After that it gradually increases.&lt;br&gt;Still there are lot of discussion is going on and to be reamined in safer zone we still need&lt;br&gt;to follow our local guidelines, which is probably wearing mask and maintaining social distance&lt;br&gt;of 1 meter.&lt;/p&gt;
-&lt;h2 id=&#34;Can-I-have-the-second-dose-with-a-different-vaccine&#34;&gt;&lt;a href=&#34;#Can-I-have-the-second-dose-with-a-different-vaccine&#34; class=&#34;headerlink&#34; title=&#34;Can I have the second dose with a different vaccine?&#34;&gt;&lt;/a&gt;&lt;strong&gt;Can I have the second dose with a different vaccine?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;NO specific data shows to use this type of comnbination and till the date WHO do not recommend&lt;br&gt;so probably, my answer is no. However if any records or some positive results will be shown&lt;br&gt;we will let you know in comments.&lt;/p&gt;
-&lt;h2 id=&#34;After-getting-vaccine-can-I-get-RT-PCR-or-antigen-test-positive&#34;&gt;&lt;a href=&#34;#After-getting-vaccine-can-I-get-RT-PCR-or-antigen-test-positive&#34; class=&#34;headerlink&#34; title=&#34;After getting vaccine can I get RT- PCR or antigen test positive?&#34;&gt;&lt;/a&gt;&lt;strong&gt;After getting vaccine can I get RT- PCR or antigen test positive?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;No, the RT- PCR or antigen test will not show the report positive, However,because the COVID-19 vaccine prompts an immune response, it may be possible to test positive in an antibody (serology) test that measures COVID-19 immunity in an individual.&lt;/p&gt;
-&lt;h2 id=&#34;Should-I-be-vaccinated-if-I-had-COVID-19-positive&#34;&gt;&lt;a href=&#34;#Should-I-be-vaccinated-if-I-had-COVID-19-positive&#34; class=&#34;headerlink&#34; title=&#34;Should I be vaccinated if I had COVID-19 positive?&#34;&gt;&lt;/a&gt;&lt;strong&gt;Should I be vaccinated if I had COVID-19 positive?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;The US’ Centres for Disease Control and Prevention (CDC) recommends that a person get vaccinated immediately after recovery, while the World Health Organization (WHO) states that a person should wait six months as natural antibodies seem to likely persist in the human body until then.&lt;/p&gt;
-&lt;h2 id=&#34;What-happens-if-I-take-the-vaccine-when-I’m-positive&#34;&gt;&lt;a href=&#34;#What-happens-if-I-take-the-vaccine-when-I’m-positive&#34; class=&#34;headerlink&#34; title=&#34;What happens if I take the vaccine when I’m positive?&#34;&gt;&lt;/a&gt;&lt;strong&gt;What happens if I take the vaccine when I’m positive?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;“We do not currently have any evidence to say whether it is better or worse to get vaccinated when infected, whether in terms of immune response or any safety issue,” says Dr Kang.&lt;/p&gt;
-&lt;p&gt;However, vaccinating after recovery acts like a booster shot, with previously infected people making a very strong response with the first dose of vaccine.&lt;/p&gt;
-&lt;h2 id=&#34;What-if-I-catch-Covid-in-between-two-vaccine-doses&#34;&gt;&lt;a href=&#34;#What-if-I-catch-Covid-in-between-two-vaccine-doses&#34; class=&#34;headerlink&#34; title=&#34;What if I catch Covid in between two vaccine doses?&#34;&gt;&lt;/a&gt;&lt;strong&gt;What if I catch Covid in between two vaccine doses?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;You should wait for 3-4 weeks after recovery before you take the second dose.&lt;/p&gt;
-&lt;h2 id=&#34;Can-pregnant-lactating-women-take-the-vaccine&#34;&gt;&lt;a href=&#34;#Can-pregnant-lactating-women-take-the-vaccine&#34; class=&#34;headerlink&#34; title=&#34;Can pregnant/lactating women take the vaccine?&#34;&gt;&lt;/a&gt;&lt;strong&gt;Can pregnant/lactating women take the vaccine?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;No such side effects shown yet to those who were pregnant or lactating womens.&lt;br&gt;Based on data, it appears safe for pregnant and lactating women to take the currently available vaccines, says Kang.&lt;/p&gt;
-&lt;h2 id=&#34;How-long-after-the-Covid-shots-should-I-take-other-vaccines&#34;&gt;&lt;a href=&#34;#How-long-after-the-Covid-shots-should-I-take-other-vaccines&#34; class=&#34;headerlink&#34; title=&#34;How long after the Covid shots should I take other vaccines?&#34;&gt;&lt;/a&gt;&lt;strong&gt;How long after the Covid shots should I take other vaccines?&lt;/strong&gt;&lt;/h2&gt;&lt;p&gt;This changes from vaccine to vaccine you should concerns your local authority for this.&lt;/p&gt;
-&lt;h1 id=&#34;Hope-you-all-get-enough-information-about-this-topic-if-any-related-issues-or-query-you-have-write-me-on-those-comment-below&#34;&gt;&lt;a href=&#34;#Hope-you-all-get-enough-information-about-this-topic-if-any-related-issues-or-query-you-have-write-me-on-those-comment-below&#34; class=&#34;headerlink&#34; title=&#34;Hope you all get enough information about this topic if any related issues or query you have write me on those comment below.&#34;&gt;&lt;/a&gt;Hope you all get enough information about this topic if any related issues or query you have write me on those comment below.&lt;/h1&gt;&lt;h3 id=&#34;Have-a-good-day&#34;&gt;&lt;a href=&#34;#Have-a-good-day&#34; class=&#34;headerlink&#34; title=&#34;Have a good day&#34;&gt;&lt;/a&gt;Have a good day&lt;/h3&gt;</content>
-        <updated>2021-05-20T07:42:48.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
