@@ -1,0 +1,24 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pace Makers • All posts by \"investment\" tag",
+    "description": "",
+    "home_page_url": "https://pace-makers.github.io",
+    "items": [
+        {
+            "id": "https://pace-makers.github.io/2021/05/21/How-to-start-mining-Bitcoin/",
+            "url": "https://pace-makers.github.io/2021/05/21/How-to-start-mining-Bitcoin/",
+            "title": "How to Start Mining Bitcoin",
+            "date_published": "2021-05-21T14:47:24.000Z",
+            "content_html": "<p><img src=\"bitcoin-mining.jpg\"></p>\n<h4 id=\"What-we-need-for-this-tutorial\"><a href=\"#What-we-need-for-this-tutorial\" class=\"headerlink\" title=\"What we need for this tutorial\"></a>What we need for this tutorial</h4><ul>\n<li>Powerful Graphic card (GPU) Nvidia or AMD</li>\n<li>Bitcoin wallet</li>\n<li>Bitcoin Mining Software (Miner)</li>\n<li>Internet connection</li>\n</ul>\n<h4 id=\"Setting-up-things\"><a href=\"#Setting-up-things\" class=\"headerlink\" title=\"Setting up things\"></a>Setting up things</h4><p>We will use here <code>Nicehash wallet</code> and <code>Nicehash Miner</code> here, because it is easy to use to setup.<br>First we will setup <code>Nicehash wallet</code>.</p>\n<h4 id=\"How-to-setup-Nicehash-wallet\"><a href=\"#How-to-setup-Nicehash-wallet\" class=\"headerlink\" title=\"How to setup Nicehash wallet\"></a>How to setup Nicehash wallet</h4><ul>\n<li><p>Go to <a href=\"https://www.nicehash.com/my/register\">https://www.nicehash.com/my/register</a></p>\n<p><img src=\"account.png\"></p>\n</li>\n<li><p>Enter your details and Create a new account</p>\n</li>\n<li><p>Verify your <code>Email Address</code></p>\n</li>\n<li><p>Now your account is sucessfully created</p>\n</li>\n<li><p>Login to your account</p>\n</li>\n<li><p>after first login it will show <code>select services</code></p>\n<p><img src=\"services.png\"></p>\n</li>\n<li><p>select the <code>Cryptocurrency wallet</code> , <code>cryptocurrency mining</code> &amp; <code>cryptocurrency exchange</code></p>\n</li>\n<li><p>Your wallet is Ready to use</p>\n</li>\n</ul>\n<p>Time to setup miner</p>\n<h4 id=\"How-to-setup-Nicehash-miner\"><a href=\"#How-to-setup-Nicehash-miner\" class=\"headerlink\" title=\"How to setup Nicehash miner\"></a>How to setup Nicehash miner</h4><ul>\n<li><p>Go to <a href=\"https://www.nicehash.com/download-center\">https://www.nicehash.com/download-center</a></p>\n</li>\n<li><p>Now click on download in front of <code>Nicehash miner</code></p>\n<p><img src=\"Download.png\"></p>\n</li>\n<li><p>it will take you to another website of github</p>\n</li>\n<li><p>click on Download <code>nicehash miner installer</code></p>\n<p><img src=\"github.png\"></p>\n</li>\n<li><p>After Downloading Nicehash miner <code>install</code> it.</p>\n</li>\n</ul>\n<ul>\n<li><p>After installing Open the Nicehash miner and <code>Login</code> with your account</p>\n</li>\n<li><p>Now it will download some file let it download all of them</p>\n<p><img src=\"files.png\"></p>\n</li>\n<li><p>After this it will show some option to accept <code>accept all the option</code> and restart your Nicehash miner</p>\n</li>\n<li><p>Now click on <code>Start Mining</code> it will take few minutes to test (For the first time only)</p>\n<p><img src=\"start.png\"></p>\n</li>\n<li><p>We are successfully started mining bitcoin</p>\n</li>\n</ul>\n<p><img src=\"mining.png\"></p>\n<p>For more information about wallet and withdraw you can visit <code>Nicehash website</code> or <code>Comment here</code><br>or You can ask me about it on <code>instagram</code> : <a href=\"https://www.instagram.com/hardc0d3d/\">https://www.instagram.com/hardc0d3d/</a></p>\n",
+            "tags": [
+                "bitcoin",
+                "bitcoinmining",
+                "cryptocurrency",
+                "blockchain",
+                "btc",
+                "bitcointrading",
+                "investment"
+            ]
+        }
+    ]
+}

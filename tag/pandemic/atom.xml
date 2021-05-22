@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pace-makers.github.io</id>
+    <title>Pace Makers • Posts by &#34;pandemic&#34; tag</title>
+    <link href="https://pace-makers.github.io" />
+    <updated>2021-05-22T05:44:17.000Z</updated>
+    <category term="covaxin" />
+    <category term="covishield" />
+    <category term="vaccine" />
+    <category term="coronavirus" />
+    <category term="corona vaccine" />
+    <category term="vaccine center" />
+    <category term="vaccine india" />
+    <category term="pandemic" />
+    <category term="bitcoin" />
+    <category term="bitcoinmining" />
+    <category term="cryptocurrency" />
+    <category term="blockchain" />
+    <category term="btc" />
+    <category term="bitcointrading" />
+    <category term="investment" />
+    <category term="nodejs" />
+    <category term="javascript" />
+    <category term="socket" />
+    <entry>
+        <id>https://pace-makers.github.io/2021/05/22/Covaxin-vs-CoviShield/</id>
+        <title>Covaxin-vs-CoviShield</title>
+        <link rel="alternate" href="https://pace-makers.github.io/2021/05/22/Covaxin-vs-CoviShield/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/covaxin_vs_covishield_1_1200x768.jpeg?0o3Czdp38ID810bxWpDtHT3cJmksirTC&amp;size=770:433&#34; alt=&#34;THUMBNAIL&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;Covaxin-vs-Covishield&#34;&gt;&lt;a href=&#34;#Covaxin-vs-Covishield&#34; class=&#34;headerlink&#34; title=&#34;Covaxin vs Covishield&#34;&gt;&lt;/a&gt;Covaxin vs Covishield&lt;/h1&gt;&lt;p&gt;In this second wave of pandemic, we all are tensed about one thing, “The Covid Vaccine!”. And in India there are two vaccines available for the public, namely, Covaxin and Covishield.&lt;/p&gt;
+&lt;p&gt;In this blog I will clear all your doubts regarding these two vaccines and I will help you judge which vaccine you should get.&lt;/p&gt;
+&lt;p&gt;There are three types of vaccines:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inactivated Vaccines&lt;/li&gt;
+&lt;li&gt;Viral Vector Vaccines&lt;/li&gt;
+&lt;li&gt;mRNA Vaccines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lets know about these 3 vaccines:&lt;/p&gt;
+&lt;h2 id=&#34;Inactivated-Vaccines&#34;&gt;&lt;a href=&#34;#Inactivated-Vaccines&#34; class=&#34;headerlink&#34; title=&#34;Inactivated Vaccines&#34;&gt;&lt;/a&gt;Inactivated Vaccines&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://static01.nyt.com/images/2021/01/04/us/bharat-biotech-covid-19-vaccine-promo-1609780773487/bharat-biotech-covid-19-vaccine-promo-1609780773487-videoSixteenByNineJumbo1600-v5.png&#34; alt=&#34;Inactivated-Vaccine&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Covaxin is an inactivated vaccine. In this vaccine, a virus is grown in a lab(in this case the coronavirus) and it is treated with a chemical to inactivate it. Now this virus is non-pathogenic and is inactivated. This virus is now used as a vaccine to develop anti-bodies.&lt;/p&gt;
+&lt;h2 id=&#34;Viral-Vector-Vaccines&#34;&gt;&lt;a href=&#34;#Viral-Vector-Vaccines&#34; class=&#34;headerlink&#34; title=&#34;Viral Vector Vaccines&#34;&gt;&lt;/a&gt;Viral Vector Vaccines&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;VV.png&#34; alt=&#34;Viral-Vector-Vaccine&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Covishield from India and Sputnik V from Russia are the viral vector vaccines. In Covishield a chimpanzee adenovirus is used. The genetic material inside it is removed and substituted with genetic code of &lt;strong&gt;SARS COV 2&lt;/strong&gt;. This virus acts a vector (like a mosquito) and it transfers the genetic code of &lt;strong&gt;SARS COV 2&lt;/strong&gt; so that our body can build immunity against it.&lt;/p&gt;
+&lt;h2 id=&#34;mRNA-Vaccines&#34;&gt;&lt;a href=&#34;#mRNA-Vaccines&#34; class=&#34;headerlink&#34; title=&#34;mRNA Vaccines&#34;&gt;&lt;/a&gt;mRNA Vaccines&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/proxy/Cgb3x6nBkW4DaIAe0GIDFZHMTjMaqHIXjE5U8gUtgiucK3zfmQRqDEQSexdeKZW2hMteed89yl53fIvo_983NyJ4HEUupZA9TJJRLqQETzHm5nPkm9dgENQQenjneTGWnww2Jyp0X95Vm8CGWWmXUyI&#34; alt=&#34;mRNA&#34;&gt;&lt;br&gt;The Pfizer and moderna vaccines are mRNA vaccines.mRNA means messenger RNA. The spike protein of the virus is use to extract the mRNA of the virus. This mRNA is used to make the vaccine and hence helps in development of anti-bodies.&lt;/p&gt;
+&lt;h2 id=&#34;Covaxin-vs-Covishield-1&#34;&gt;&lt;a href=&#34;#Covaxin-vs-Covishield-1&#34; class=&#34;headerlink&#34; title=&#34;Covaxin vs Covishield&#34;&gt;&lt;/a&gt;Covaxin vs Covishield&lt;/h2&gt;&lt;p&gt;We will try to differentiate these two vaccines on the basis of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficacy&lt;/li&gt;
+&lt;li&gt;Dosage Gap&lt;/li&gt;
+&lt;li&gt;Age of Beneficiaries&lt;/li&gt;
+&lt;li&gt;Cost&lt;/li&gt;
+&lt;li&gt;Availability&lt;/li&gt;
+&lt;li&gt;Side Effects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Efficacy&#34;&gt;&lt;a href=&#34;#Efficacy&#34; class=&#34;headerlink&#34; title=&#34;Efficacy&#34;&gt;&lt;/a&gt;Efficacy&lt;/h3&gt;&lt;p&gt;Both the vaccines have shown more than satisfactory results ever since the inoculation started in India.&lt;br&gt;However, the efficacy of Covishield after the second dose can vary from &lt;strong&gt;70-90%&lt;/strong&gt; whereas of Covaxin it varies from &lt;strong&gt;78-100%&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;Dosage-Gap&#34;&gt;&lt;a href=&#34;#Dosage-Gap&#34; class=&#34;headerlink&#34; title=&#34;Dosage Gap&#34;&gt;&lt;/a&gt;Dosage Gap&lt;/h3&gt;&lt;p&gt;There is no difference between the two vaccines in terms of dosage. Both of them follow a two-dose regimen, administered 28 days apart.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For Covishield, the interval between 1st and 2nd doses is 12-16 weeks.&lt;/li&gt;
+&lt;li&gt;For Covaxin, the interval between the 2 doses is 4-6 weeks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;Age-of-Beneficiaries&#34;&gt;&lt;a href=&#34;#Age-of-Beneficiaries&#34; class=&#34;headerlink&#34; title=&#34;Age of Beneficiaries&#34;&gt;&lt;/a&gt;Age of Beneficiaries&lt;/h3&gt;&lt;p&gt;Covishield has been approved for people aged 18 years and above, while Covaxin can be given to people aged 12 years and above. There, however, isn’t any assurance if the vaccine can be given to children and pregnant women.&lt;/p&gt;
+&lt;h3 id=&#34;Cost&#34;&gt;&lt;a href=&#34;#Cost&#34; class=&#34;headerlink&#34; title=&#34;Cost&#34;&gt;&lt;/a&gt;Cost&lt;/h3&gt;&lt;p&gt;Covishield is less expensive. SII is selling this vaccine at INR 300 (government) and INR 600 (private centres).&lt;br&gt;Covaxin is more expensive and is being sold at INR 400 (government) and INR 1200 (private facilities).&lt;/p&gt;
+&lt;h3 id=&#34;Availability&#34;&gt;&lt;a href=&#34;#Availability&#34; class=&#34;headerlink&#34; title=&#34;Availability&#34;&gt;&lt;/a&gt;Availability&lt;/h3&gt;&lt;p&gt;Covishield is more easily available whereas there are only few hospitals and healthcare centres which are stocking Covaxin.&lt;/p&gt;
+&lt;h3 id=&#34;Side-Effects&#34;&gt;&lt;a href=&#34;#Side-Effects&#34; class=&#34;headerlink&#34; title=&#34;Side Effects&#34;&gt;&lt;/a&gt;Side Effects&lt;/h3&gt;&lt;p&gt;After injecting the vaccine, you may experience pain at the site of injection. Some people also experience side effects such as headache, joint pain, may feel like feverish. These side effects do not persist for long and generally goes within a day or two. Side effects are almost same for both of them. &lt;/p&gt;
+&lt;h2 id=&#34;Summing-up-the-differences&#34;&gt;&lt;a href=&#34;#Summing-up-the-differences&#34; class=&#34;headerlink&#34; title=&#34;Summing up the differences&#34;&gt;&lt;/a&gt;Summing up the differences&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Covishield&lt;/th&gt;
+&lt;th&gt;Covaxin&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;The interval between 1st and 2nd doses is 12-16 weeks&lt;/td&gt;
+&lt;td&gt;The interval between the 2 doses is 4-6 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Efficacy after the second dose can vary from 70-90%&lt;/td&gt;
+&lt;td&gt;This vaccine can be 78-100% effective after the second dose&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;People above 18 years of age can opt for this vaccine&lt;/td&gt;
+&lt;td&gt;This vaccine can be injected into younger people as well (12 years and above)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Covishield is less expensive. SII is selling this vaccine at INR 300 (government) and INR 600 (private centres)&lt;/td&gt;
+&lt;td&gt;Covaxin is more expensive and is being sold at INR 400 (government) and INR 1200 (private facilities)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Covishield is more easily available&lt;/td&gt;
+&lt;td&gt;Fewer hospitals and healthcare centres are stocking Covaxin&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;Conclusion&#34;&gt;&lt;a href=&#34;#Conclusion&#34; class=&#34;headerlink&#34; title=&#34;Conclusion&#34;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;&lt;p&gt;In my opinion, you should choose covaxin over covishield. As you have already read the differences apart from cost everything is better than covishield. I am not saying that covishield is not good or it is bad. As there is a shortage of vaccines in the country, one should get vaccinated with any one of these, but if you have choice go for Covaxin.&lt;br&gt;And I forgot to mention &lt;strong&gt;Both vaccines are capable of handling all the incoming new strains of coronaviruses&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Thank You for reading my blog!&lt;/p&gt;
+&lt;p&gt;For more blogs subsribe to Pace-Makers and follow our website &lt;a href=&#34;https://github.pacemakers.io/&#34;&gt;https://github.pacemakers.io&lt;/a&gt;&lt;br&gt;Follow me on Instagram - &lt;a href=&#34;https://instagram.com/raunaq_soneja&#34;&gt;https://instagram.com/raunaq_soneja&lt;/a&gt;&lt;br&gt;For gaming content subscribe to my Youtube Channel - &lt;a href=&#34;https://www.youtube.com/channel/UCB5W2a5sH6LiS7Uv73Dls7w&#34;&gt;https://www.youtube.com/channel/UCB5W2a5sH6LiS7Uv73Dls7w&lt;/a&gt;&lt;br&gt;Follow me on twitter - &lt;a href=&#34;https://twitter.com/raunaq_soneja&#34;&gt;https://twitter.com/raunaq_soneja&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="covaxin" />
+        <category term="covishield" />
+        <category term="vaccine" />
+        <category term="coronavirus" />
+        <category term="corona vaccine" />
+        <category term="vaccine center" />
+        <category term="vaccine india" />
+        <category term="pandemic" />
+        <updated>2021-05-22T05:44:17.000Z</updated>
+    </entry>
+</feed>

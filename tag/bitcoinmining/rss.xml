@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Pace Makers • Posts by &#34;bitcoinmining&#34; tag</title>
+        <link>https://pace-makers.github.io</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Fri, 21 May 2021 20:17:24 +0530</pubDate>
+        <lastBuildDate>Fri, 21 May 2021 20:17:24 +0530</lastBuildDate>
+        <category>covaxin</category>
+        <category>covishield</category>
+        <category>vaccine</category>
+        <category>coronavirus</category>
+        <category>corona vaccine</category>
+        <category>vaccine center</category>
+        <category>vaccine india</category>
+        <category>pandemic</category>
+        <category>bitcoin</category>
+        <category>bitcoinmining</category>
+        <category>cryptocurrency</category>
+        <category>blockchain</category>
+        <category>btc</category>
+        <category>bitcointrading</category>
+        <category>investment</category>
+        <category>nodejs</category>
+        <category>javascript</category>
+        <category>socket</category>
+        <item>
+            <guid isPermalink="true">https://pace-makers.github.io/2021/05/21/How-to-start-mining-Bitcoin/</guid>
+            <title>How to Start Mining Bitcoin</title>
+            <link>https://pace-makers.github.io/2021/05/21/How-to-start-mining-Bitcoin/</link>
+            <category>bitcoin</category>
+            <category>bitcoinmining</category>
+            <category>cryptocurrency</category>
+            <category>blockchain</category>
+            <category>btc</category>
+            <category>bitcointrading</category>
+            <category>investment</category>
+            <pubDate>Fri, 21 May 2021 20:17:24 +0530</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;bitcoin-mining.jpg&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;What-we-need-for-this-tutorial&#34;&gt;&lt;a href=&#34;#What-we-need-for-this-tutorial&#34; class=&#34;headerlink&#34; title=&#34;What we need for this tutorial&#34;&gt;&lt;/a&gt;What we need for this tutorial&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Powerful Graphic card (GPU) Nvidia or AMD&lt;/li&gt;
+&lt;li&gt;Bitcoin wallet&lt;/li&gt;
+&lt;li&gt;Bitcoin Mining Software (Miner)&lt;/li&gt;
+&lt;li&gt;Internet connection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;Setting-up-things&#34;&gt;&lt;a href=&#34;#Setting-up-things&#34; class=&#34;headerlink&#34; title=&#34;Setting up things&#34;&gt;&lt;/a&gt;Setting up things&lt;/h4&gt;&lt;p&gt;We will use here &lt;code&gt;Nicehash wallet&lt;/code&gt; and &lt;code&gt;Nicehash Miner&lt;/code&gt; here, because it is easy to use to setup.&lt;br&gt;First we will setup &lt;code&gt;Nicehash wallet&lt;/code&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;How-to-setup-Nicehash-wallet&#34;&gt;&lt;a href=&#34;#How-to-setup-Nicehash-wallet&#34; class=&#34;headerlink&#34; title=&#34;How to setup Nicehash wallet&#34;&gt;&lt;/a&gt;How to setup Nicehash wallet&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Go to &lt;a href=&#34;https://www.nicehash.com/my/register&#34;&gt;https://www.nicehash.com/my/register&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;account.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Enter your details and Create a new account&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Verify your &lt;code&gt;Email Address&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Now your account is sucessfully created&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Login to your account&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;after first login it will show &lt;code&gt;select services&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;services.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;select the &lt;code&gt;Cryptocurrency wallet&lt;/code&gt; , &lt;code&gt;cryptocurrency mining&lt;/code&gt; &amp;amp; &lt;code&gt;cryptocurrency exchange&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Your wallet is Ready to use&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Time to setup miner&lt;/p&gt;
+&lt;h4 id=&#34;How-to-setup-Nicehash-miner&#34;&gt;&lt;a href=&#34;#How-to-setup-Nicehash-miner&#34; class=&#34;headerlink&#34; title=&#34;How to setup Nicehash miner&#34;&gt;&lt;/a&gt;How to setup Nicehash miner&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Go to &lt;a href=&#34;https://www.nicehash.com/download-center&#34;&gt;https://www.nicehash.com/download-center&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Now click on download in front of &lt;code&gt;Nicehash miner&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Download.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;it will take you to another website of github&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;click on Download &lt;code&gt;nicehash miner installer&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;github.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;After Downloading Nicehash miner &lt;code&gt;install&lt;/code&gt; it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;After installing Open the Nicehash miner and &lt;code&gt;Login&lt;/code&gt; with your account&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Now it will download some file let it download all of them&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;files.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;After this it will show some option to accept &lt;code&gt;accept all the option&lt;/code&gt; and restart your Nicehash miner&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Now click on &lt;code&gt;Start Mining&lt;/code&gt; it will take few minutes to test (For the first time only)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;start.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We are successfully started mining bitcoin&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;mining.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For more information about wallet and withdraw you can visit &lt;code&gt;Nicehash website&lt;/code&gt; or &lt;code&gt;Comment here&lt;/code&gt;&lt;br&gt;or You can ask me about it on &lt;code&gt;instagram&lt;/code&gt; : &lt;a href=&#34;https://www.instagram.com/hardc0d3d/&#34;&gt;https://www.instagram.com/hardc0d3d/&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
