@@ -35,7 +35,7 @@
 <meta property="og:image" content="https://pace-makers.github.io/2021/05/21/realtime-console-chat-app/5.png">
 <meta property="og:image" content="https://pace-makers.github.io/2021/05/21/realtime-console-chat-app/6.png">
 <meta property="article:published_time" content="2021-05-21T07:42:24.000Z">
-<meta property="article:modified_time" content="2021-05-21T07:47:43.812Z">
+<meta property="article:modified_time" content="2021-05-22T08:50:29.366Z">
 <meta property="article:author" content="Pace Makers">
 <meta property="article:tag" content="nodejs">
 <meta property="article:tag" content="javascript">
@@ -201,10 +201,16 @@
                 <i class="far fa-calendar"></i>
               </span>
               <span class="post-meta-item-text">Posted on</span>
-              
 
-              <time title="Created: 2021-05-21 13:12:24 / Modified: 13:17:43" itemprop="dateCreated datePublished" datetime="2021-05-21T13:12:24+05:30">2021-05-21</time>
+              <time title="Created: 2021-05-21 13:12:24" itemprop="dateCreated datePublished" datetime="2021-05-21T13:12:24+05:30">2021-05-21</time>
             </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2021-05-22 14:20:29" itemprop="dateModified" datetime="2021-05-22T14:20:29+05:30">2021-05-22</time>
+              </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
                 <i class="far fa-folder"></i>
@@ -245,27 +251,27 @@
 
       
         <p>In this post, We will create and see how easy it is to create your own realtime chat app in console. This chat app is two part, One part is server and second part is Client.</p>
-<p><img src="0.png" alt="THUMBNAIL"></p>
+<p><img src="/2021/05/21/realtime-console-chat-app/0.png" alt="THUMBNAIL"></p>
 <h4 id="What-we-need-for-this-tutorial"><a href="#What-we-need-for-this-tutorial" class="headerlink" title="What we need for this tutorial"></a>What we need for this tutorial</h4><ul>
 <li>NPM and NodeJS installed</li>
 <li><code>socket.io</code> and <code>socket.io-client</code> module</li>
 </ul>
 <h4 id="Setting-up-our-project"><a href="#Setting-up-our-project" class="headerlink" title="Setting up our project"></a>Setting up our project</h4><p>I will be creating my server and client on the same project, If you want to deploy your server code to your hosting provider you need to create seperate project.<br>First, I created a directory named <code>chat-cli</code> and initialized npm project with <code>npm init -y</code>.</p>
 <p>Now I installed the required modules like <code>socket.io</code> and <code>socket.io-client</code> with <code>npm install socket.io socket.io-client</code>.<br>I created two files in our project <code>index.js</code>(contains Client code) and <code>server.js</code>(contains Server code).<br>Now let’s dive into more details.</p>
-<p><img src="1.png" alt="THUMBNAIL HERE"><br><img src="2.png" alt="THUMBNAIL HERE"></p>
+<p><img src="/2021/05/21/realtime-console-chat-app/1.png" alt="THUMBNAIL HERE"><br><img src="/2021/05/21/realtime-console-chat-app/2.png" alt="THUMBNAIL HERE"></p>
 <h4 id="Creating-a-Socket-io-server"><a href="#Creating-a-Socket-io-server" class="headerlink" title="Creating a Socket.io server"></a>Creating a Socket.io server</h4><p>We need socket.io server to process all events and send it to our client. So, Let’s create it.</p>
 <p>Open your <code>server.js</code> file and Let’s write some code.</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">// Created a socket.io server</span><br><span class="line">const io = require(&quot;socket.io&quot;)();</span><br><span class="line">// This should be a free port on our server.</span><br><span class="line">const PORT = process.env.PORT || 3000;</span><br><span class="line"></span><br><span class="line">// Created a empty user object, This will store names of our users.</span><br><span class="line">const users = &#123;&#125;;</span><br><span class="line"></span><br><span class="line">// Listening for a connection event (This event fires when a client is connected to your server)</span><br><span class="line">io.on(&quot;connection&quot;, (socket) =&gt; &#123;</span><br><span class="line">	console.log(&quot;New Connection: &quot; + socket.id);</span><br><span class="line">	// If user emitted a `new user` event, This callback will be called with his name.</span><br><span class="line">    socket.on(&#x27;new user&#x27;, (name) =&gt; &#123;</span><br><span class="line">        // Storing his name</span><br><span class="line">        users[socket.id] = name;</span><br><span class="line">        // Emitting an event to all users except that user.</span><br><span class="line">        socket.broadcast.emit(&quot;message&quot;, `$&#123;name&#125; joined the chat.`)</span><br><span class="line">    &#125;);</span><br><span class="line">    // Listening for a `message` event.</span><br><span class="line">    socket.on(&#x27;message&#x27;, (text) =&gt; &#123;</span><br><span class="line">        // Emitting an event to all users except that user.</span><br><span class="line">        socket.broadcast.emit(&quot;message&quot;, `$&#123;users[socket.id]&#125;&gt; $&#123;text&#125;`);</span><br><span class="line">    &#125;);</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">// Starting up server on PORT</span><br><span class="line">io.listen(PORT);</span><br></pre></td></tr></table></figure>
 
-<p>Now our server code is finished.<br><img src="3.png" alt="THUMBNAIL HERE"></p>
+<p>Now our server code is finished.<br><img src="/2021/05/21/realtime-console-chat-app/3.png" alt="THUMBNAIL HERE"></p>
 <h4 id="Creating-Client-for-Server"><a href="#Creating-Client-for-Server" class="headerlink" title="Creating Client for Server"></a>Creating Client for Server</h4><p>We need to create client and let it connect to our server.</p>
 <p>Open up <code>index.js</code> file and Let’s write some code.</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line">// IMPORTING `socket.io-client` module</span><br><span class="line">const io = require(&#x27;socket.io-client&#x27;);</span><br><span class="line">// Creating client at the server, you need to pass url of your server where you hosted it.</span><br><span class="line">const socket = io(&quot;http://localhost:3000&quot;);</span><br><span class="line">// IMPORTING readline module to read from console.</span><br><span class="line">const readline = require(&#x27;readline&#x27;);</span><br><span class="line"></span><br><span class="line">// Creating an interface to get input from our console.</span><br><span class="line">const rl = readline.createInterface(&#123;</span><br><span class="line">  input: process.stdin,</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">// Getting users name.</span><br><span class="line">console.log(&quot;What is your name?&quot;);</span><br><span class="line">rl.question(&quot;What is your name?&quot;, (text) =&gt; &#123;</span><br><span class="line">    // Sending users name to server</span><br><span class="line">    socket.emit(&#x27;new user&#x27;, text.trim());</span><br><span class="line">    console.log(&quot;You joined the chat&quot;);</span><br><span class="line">    process.stdout.write(&quot;&gt; &quot;);</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">// Listening for event `message` from our server (This will fire when server sends `message` event)</span><br><span class="line">socket.on(&quot;message&quot;, (text) =&gt; &#123;</span><br><span class="line">    // Erasing Last line</span><br><span class="line">    process.stdout.write(&quot;\r\x1b[K&quot;)</span><br><span class="line">    console.log(text);</span><br><span class="line">    process.stdout.write(&quot;&gt; &quot;);</span><br><span class="line">&#125;);</span><br><span class="line">// Prompting user to enter message.</span><br><span class="line">rl.prompt();</span><br><span class="line"></span><br><span class="line">// Fires when we input text from user.</span><br><span class="line">rl.on(&#x27;line&#x27;, (text) =&gt; &#123;</span><br><span class="line">    // Sending message to our server.</span><br><span class="line">    socket.emit(&#x27;message&#x27;, text.trim());</span><br><span class="line">    process.stdout.write(&quot;&gt; &quot;);</span><br><span class="line">    rl.prompt();</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure>
-<p>Our client code is now finished.<br><img src="4.png" alt="THUMBNAIL HERE"></p>
+<p>Our client code is now finished.<br><img src="/2021/05/21/realtime-console-chat-app/4.png" alt="THUMBNAIL HERE"></p>
 <h4 id="How-to-run"><a href="#How-to-run" class="headerlink" title="How to run"></a>How to run</h4><p>First open up three terminals or cmd in your project directory, Start your server first by typing <code>node server.js</code>.</p>
 <p>Now run two clients you want to chat by typing <code>node index.js</code> on two terminals or cmd.</p>
 <p>If you have done everything correctly, You will be able to chat.</p>
-<p><img src="5.png" alt="THUMBNAIL HERE"><br><img src="6.png" alt="THUMBNAIL HERE"></p>
+<p><img src="/2021/05/21/realtime-console-chat-app/5.png" alt="THUMBNAIL HERE"><br><img src="/2021/05/21/realtime-console-chat-app/6.png" alt="THUMBNAIL HERE"></p>
 <p><a target="_blank" rel="noopener" href="https://github.com/Programmer101N/chat-cli-nodejs">Link to This Project</a></p>
 <p><a target="_blank" rel="noopener" href="https://wlo.link/@prgmaz"><strong>Follow me on my socials</strong></a></p>
 
