@@ -3,7 +3,7 @@
     <id>https://pace-makers.github.io</id>
     <title>Pace Makers</title>
     <link href="https://pace-makers.github.io" />
-    <updated>2021-05-22T05:44:17.000Z</updated>
+    <updated>2021-05-23T07:47:57.000Z</updated>
     <category term="covaxin" />
     <category term="covishield" />
     <category term="vaccine" />
@@ -12,6 +12,15 @@
     <category term="vaccine center" />
     <category term="vaccine india" />
     <category term="pandemic" />
+    <category term="nodejs" />
+    <category term="javascript" />
+    <category term="socket" />
+    <category term="blackfungus" />
+    <category term="mucormycosis" />
+    <category term="symptoms" />
+    <category term="treatment" />
+    <category term="deathrate" />
+    <category term="prevention" />
     <category term="bitcoin" />
     <category term="bitcoinmining" />
     <category term="cryptocurrency" />
@@ -19,9 +28,46 @@
     <category term="btc" />
     <category term="bitcointrading" />
     <category term="investment" />
-    <category term="nodejs" />
-    <category term="javascript" />
-    <category term="socket" />
+    <entry>
+        <id>https://pace-makers.github.io/2021/05/23/truth-about-black-fungus/</id>
+        <title>Black Fungus - What Is Mucormycosis, Its Symptoms and Treatment?</title>
+        <link rel="alternate" href="https://pace-makers.github.io/2021/05/23/truth-about-black-fungus/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://s.france24.com/media/display/6ff09d48-b959-11eb-b4ae-005056bf87d6/w:1280/p:16x9/d128e73ae63b43ddd8e5cfede755e073d9538cf6.webp&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;What-is-Mucormycosis&#34;&gt;&lt;a href=&#34;#What-is-Mucormycosis&#34; class=&#34;headerlink&#34; title=&#34;What is Mucormycosis?&#34;&gt;&lt;/a&gt;What is Mucormycosis?&lt;/h2&gt;&lt;p&gt;Mucormycosis is also known as Black fungus is a rare but dangerous &lt;code&gt;fungual infection&lt;/code&gt; among &lt;code&gt;covid19 patients&lt;/code&gt;, which often manifests in the skin and also affects the lungs and the brain. It is caused by a group of moulds known as &lt;code&gt;mucormycetes&lt;/code&gt; present naturally in the environment.&lt;br&gt; Black fungus infections have been detected in &lt;code&gt;Karnataka&lt;/code&gt;, &lt;code&gt;Uttarakhand&lt;/code&gt;, &lt;code&gt;Telangana&lt;/code&gt;, &lt;code&gt;Madhya Pradesh&lt;/code&gt;, &lt;code&gt;Andhra Pradesh&lt;/code&gt;, &lt;code&gt;Haryana&lt;/code&gt; and &lt;code&gt;Bihar&lt;/code&gt;. States like Rajasthan have already declared this disease as an epidemic.&lt;/p&gt;
+&lt;h2 id=&#34;How-we-come-in-contact-with-Black-Fungus&#34;&gt;&lt;a href=&#34;#How-we-come-in-contact-with-Black-Fungus&#34; class=&#34;headerlink&#34; title=&#34;How we come in contact with Black Fungus?&#34;&gt;&lt;/a&gt;How we come in contact with Black Fungus?&lt;/h2&gt;&lt;p&gt; Primarily, fungal spore floating in the environment give people this infection. One may also catch it when the fungus &lt;code&gt;enters the skin through a cut, burn, or other types of skin trauma.&lt;/code&gt;&lt;br&gt; If the fungus goes in through a cut or a burn, it can cause local infections. But if it goes in through the &lt;code&gt;sinus&lt;/code&gt;, it can affect the eyes and eventually, the brain, leading to a fatal situation.&lt;br&gt; Mucormycosis can lead to loss of the upper jaw and sometimes even the eye.&lt;/p&gt;
+&lt;h2 id=&#34;Symptoms-of-mucormycosis&#34;&gt;&lt;a href=&#34;#Symptoms-of-mucormycosis&#34; class=&#34;headerlink&#34; title=&#34;Symptoms of mucormycosis&#34;&gt;&lt;/a&gt;Symptoms of mucormycosis&lt;/h2&gt;&lt;p&gt; Some common symptoms include pain and redness around the eyes or nose, with fever, headache, coughing, shortness of breath, bloody vomits, and altered mental status.&lt;br&gt; According to the Experts, this infection should be suspected when there is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;nasal blockade or congestion, nasal discharge (blackish/bloody)&lt;/li&gt;
+&lt;li&gt; Local pain on the cheek bone, one-sided facial pain, numbness or swelling&lt;/li&gt;
+&lt;li&gt; Blackish discoloration over bridge of nose/palate&lt;/li&gt;
+&lt;li&gt; Loosening of teeth, jaw involvement&lt;/li&gt;
+&lt;li&gt; Blurred or double vision with pain&lt;/li&gt;
+&lt;li&gt; Thrombosis, necrosis, skin lesion&lt;/li&gt;
+&lt;li&gt; Chest pain, pleural effusion, worsening of respiratory symptoms.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;Treatment-of-mucormycosis&#34;&gt;&lt;a href=&#34;#Treatment-of-mucormycosis&#34; class=&#34;headerlink&#34; title=&#34;Treatment of mucormycosis&#34;&gt;&lt;/a&gt;Treatment of mucormycosis&lt;/h1&gt;&lt;p&gt;It is generally treated with antifungals but may require surgery. According to doctors, it is very important to control diabetes, reduce the use of steroids, and discontinue immunomodulating drugs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://5.imimg.com/data5/DI/FS/MY-58417962/liposomal-amphotericin-b-injection-ip-50mg-500x500.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The initial recommended antifungal treatment is given through a vein(IV) for at least 4-6 weeks before infusion of &lt;code&gt;amphotericin B&lt;/code&gt; and antifungal therapy.&lt;br&gt;Currently, Amphotericin B is being used by doctors to treat black fungus but now, there is a shortage of Amphotericin B drugs, so doctors are moving to second-line drugs like &lt;code&gt;Posaconazole&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In severe cases, doctor may recommend surgery to remove infected or dead tissue to stop the fungus from spreading. This might include removing parts of your nose or eyes.&lt;/p&gt;
+&lt;p&gt;Treating black fungus among patients, where it is undetected for long, requires a team of microbiologists, internal medicine specialists, intensivist neurologists, ENT specialists, ophthalmologists, dentists, surgeons, etc. &lt;/p&gt;
+&lt;h1 id=&#34;Death-Rate-of-Mucormycosis&#34;&gt;&lt;a href=&#34;#Death-Rate-of-Mucormycosis&#34; class=&#34;headerlink&#34; title=&#34;Death Rate of Mucormycosis&#34;&gt;&lt;/a&gt;Death Rate of Mucormycosis&lt;/h1&gt;&lt;p&gt;Researchers estimate a mortality rate as high as 80% if left untreated for long but if treated,  still the death rate is around 54%.&lt;/p&gt;
+&lt;h1 id=&#34;Prevention&#34;&gt;&lt;a href=&#34;#Prevention&#34; class=&#34;headerlink&#34; title=&#34;Prevention&#34;&gt;&lt;/a&gt;Prevention&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;Stay away from areas with a lot of &lt;code&gt;dust&lt;/code&gt; or &lt;code&gt;soil&lt;/code&gt;, like construction or evacuation site.&lt;br&gt;Always wear a mask like &lt;code&gt;N-95&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Avoid &lt;code&gt;infected water&lt;/code&gt; – floodwater or water-damaged buildings, especially after naturaldisasters like hurricanes or floods.&lt;/li&gt;
+&lt;li&gt;If you have a weakened immune system, avoid activities that involve dust and soil, like gardening or yard work.&lt;/li&gt;
+&lt;li&gt;After Covid-19 treatment , control &lt;code&gt;diabetes&lt;/code&gt; and monitor &lt;code&gt;blood glucose level&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Thanks for Reading, Stay Safe.&lt;br&gt;&lt;a href=&#34;https://instagram.com/ruksh11&#34;&gt;Follow me on Instagram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stay Tuned for more content&lt;/p&gt;
+</content>
+        <category term="blackfungus" />
+        <category term="mucormycosis" />
+        <category term="symptoms" />
+        <category term="treatment" />
+        <category term="deathrate" />
+        <category term="prevention" />
+        <updated>2021-05-23T07:47:57.000Z</updated>
+    </entry>
     <entry>
         <id>https://pace-makers.github.io/2021/05/22/Covaxin-vs-CoviShield/</id>
         <title>Covaxin vs CoviShield</title>
