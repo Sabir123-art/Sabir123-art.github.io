@@ -12,15 +12,6 @@
     <category term="vaccine center" />
     <category term="vaccine india" />
     <category term="pandemic" />
-    <category term="nodejs" />
-    <category term="javascript" />
-    <category term="socket" />
-    <category term="blackfungus" />
-    <category term="mucormycosis" />
-    <category term="symptoms" />
-    <category term="treatment" />
-    <category term="deathrate" />
-    <category term="prevention" />
     <category term="bitcoin" />
     <category term="bitcoinmining" />
     <category term="cryptocurrency" />
@@ -28,6 +19,15 @@
     <category term="btc" />
     <category term="bitcointrading" />
     <category term="investment" />
+    <category term="blackfungus" />
+    <category term="mucormycosis" />
+    <category term="symptoms" />
+    <category term="treatment" />
+    <category term="deathrate" />
+    <category term="prevention" />
+    <category term="nodejs" />
+    <category term="javascript" />
+    <category term="socket" />
     <entry>
         <id>https://pace-makers.github.io/2021/05/21/realtime-console-chat-app/</id>
         <title>Realtime Console Chat App</title>
