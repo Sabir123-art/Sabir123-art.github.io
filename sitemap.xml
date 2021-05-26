@@ -172,6 +172,41 @@
   </url>
   
   <url>
+    <loc>https://pace-makers.github.io/tags/Gaming/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/tags/Indian/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/tags/Parents/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/tags/Money/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/tags/Game/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pace-makers.github.io/tags/nodejs/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
@@ -201,13 +236,6 @@
   
   <url>
     <loc>https://pace-makers.github.io/tags/commands/</loc>
-    <lastmod>2021-05-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pace-makers.github.io/tags/socket/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -255,6 +283,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://pace-makers.github.io/tags/socket/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -266,6 +301,13 @@
   
   <url>
     <loc>https://pace-makers.github.io/categories/technology/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/categories/Gaming/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -286,14 +328,14 @@
   </url>
   
   <url>
-    <loc>https://pace-makers.github.io/categories/Healthcare/Coronavirus/Vaccine/</loc>
+    <loc>https://pace-makers.github.io/categories/Gaming/Future/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://pace-makers.github.io/categories/technology/cryptocurrency/trading/</loc>
+    <loc>https://pace-makers.github.io/categories/Healthcare/Coronavirus/Vaccine/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -307,7 +349,28 @@
   </url>
   
   <url>
-    <loc>https://pace-makers.github.io/categories/Technology/</loc>
+    <loc>https://pace-makers.github.io/categories/technology/cryptocurrency/trading/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/categories/Gaming/Future/Career/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/categories/Gaming/Future/Career/Business/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/categories/Gaming/Future/Career/Business/Entreprenuership/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -321,7 +384,7 @@
   </url>
   
   <url>
-    <loc>https://pace-makers.github.io/categories/Technology/Programming/</loc>
+    <loc>https://pace-makers.github.io/categories/Technology/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -329,6 +392,13 @@
   
   <url>
     <loc>https://pace-makers.github.io/categories/health/care/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/categories/Technology/Programming/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
