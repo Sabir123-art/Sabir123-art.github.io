@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pace-makers.github.io/2021/05/26/Why-Indian-Parents-don-t-support-Gaming/</loc>
+    
+    <lastmod>2021-05-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pace-makers.github.io/2021/05/25/Haircare-routine/</loc>
     
     <lastmod>2021-05-26</lastmod>
@@ -200,6 +207,13 @@
   </url>
   
   <url>
+    <loc>https://pace-makers.github.io/tags/socket/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pace-makers.github.io/tags/blackfungus/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
@@ -241,31 +255,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://pace-makers.github.io/tags/socket/</loc>
-    <lastmod>2021-05-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://pace-makers.github.io/categories/Healthcare/</loc>
-    <lastmod>2021-05-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pace-makers.github.io/categories/Healthcare/Coronavirus/</loc>
-    <lastmod>2021-05-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pace-makers.github.io/categories/Healthcare/Coronavirus/Vaccine/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -279,14 +272,7 @@
   </url>
   
   <url>
-    <loc>https://pace-makers.github.io/categories/technology/cryptocurrency/</loc>
-    <lastmod>2021-05-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pace-makers.github.io/categories/health/</loc>
+    <loc>https://pace-makers.github.io/categories/Healthcare/Coronavirus/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -300,7 +286,28 @@
   </url>
   
   <url>
+    <loc>https://pace-makers.github.io/categories/technology/cryptocurrency/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/categories/Healthcare/Coronavirus/Vaccine/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pace-makers.github.io/categories/technology/programming/</loc>
+    <lastmod>2021-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pace-makers.github.io/categories/Technology/Programming/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -314,14 +321,14 @@
   </url>
   
   <url>
-    <loc>https://pace-makers.github.io/categories/health/care/</loc>
+    <loc>https://pace-makers.github.io/categories/health/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://pace-makers.github.io/categories/Technology/Programming/</loc>
+    <loc>https://pace-makers.github.io/categories/health/care/</loc>
     <lastmod>2021-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
